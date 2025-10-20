@@ -1,4 +1,4 @@
-# 🧠 AI-CHAT-DOCUMENT-ASSISITANT
+# 🧠 FileFlow AI -Smooth conversation with your files 💬
 Using groq, Hugging Face, FAISS, and LangChain
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
