@@ -227,17 +227,16 @@ git push origin main
 # ✔️ output
 
 
-<img width="1913" height="969" alt="Screenshot 2025-10-20 102546" src="https://github.com/user-attachments/assets/63520475-dbd0-4ae1-874a-0523bd559591" />
+<img width="1906" height="1002" alt="image" src="https://github.com/user-attachments/assets/dc002e0d-c4b4-4d7e-b658-41ceb378c9f6" />
 
 
 
-
-<img width="1910" height="1022" alt="Screenshot 2025-10-20 093739" src="https://github.com/user-attachments/assets/b2f81a65-07b1-423b-8d35-13a937b1f1bb" />
-
+<img width="1893" height="898" alt="image" src="https://github.com/user-attachments/assets/b4d1b1f3-dd41-48ad-8002-3e59020b4680" />
 
 
 
-<img width="1919" height="961" alt="Screenshot 2025-10-20 093757" src="https://github.com/user-attachments/assets/c1e6682c-6cb0-4862-a96f-99a8bca86255" />
+<img width="1897" height="900" alt="image" src="https://github.com/user-attachments/assets/d9d5aa93-40f2-4f14-8048-0397c83d29eb" />
+
 
 
 
