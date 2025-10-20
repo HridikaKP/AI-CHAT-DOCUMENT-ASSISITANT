@@ -58,18 +58,31 @@ It integrates LangChain, FAISS, and LLMs (groq or Hugging Face) to provide conte
 
 Doc-Chat/
 │
+
 ├── app.py                     # Main Streamlit app (entry point)
+
 │
+
 ├── chatbot/
+
 │   ├── __init__.py
+
 │   ├── config.py              # Loads & validates environment variables
+
 │   ├── llm_handler.py         # Initializes Gemini/Hugging Face models
+
 │   ├── document_handler.py    # Handles document loading and FAISS setup
+
 │   ├── chat_manager.py        # Manages conversation & retrieval chain
+
 │   └── utils.py               # Optional helper functions
+
 │
+
 ├── .env                       # API keys and provider name
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -79,21 +92,21 @@ Doc-Chat/
 
 🔹 Step 1: Install Dependencies
 
-pip install -r requirements.txt
+-->pip install -r requirements.txt
 
 
 
 🔹 Step 2: Create .env File
 
 
-MODEL_PROVIDER=groq     # or huggingface
-Groq_API_KEY=your_groq_key
+-->MODEL_PROVIDER=groq     # or huggingface
+-->Groq_API_KEY=your_groq_key
 
 
 
 🔹 Step 3: Run the App
 
-streamlit run app.py
+-->streamlit run app.py
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
