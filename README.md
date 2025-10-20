@@ -56,7 +56,7 @@ It integrates LangChain, FAISS, and LLMs (groq or Hugging Face) to provide conte
 
 
 
-Doc-Chat/
+fileflow ai/
 │
 
 ├── app.py                     # Main Streamlit app (entry point)
