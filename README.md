@@ -183,18 +183,40 @@ Maintains chat history in st.session_state
 # 🧭 5. Workflow Diagram
 
 
-flowchart TD
-A[Start App] --> B[Load Config & Model]
-B --> C[Load Documents into FAISS]
-C --> D[User Sends Query]
-D --> E[Retriever fetches relevant chunks]
-E --> F[LLM Generates Response]
-F --> G[Display Response in Streamlit]
-G --> D
+<img width="647" height="1345" alt="image" src="https://github.com/user-attachments/assets/36e0a7c8-fc75-498c-bcaf-f667680474ef" />
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🧾 6. Git Workflow
+# 6. Architeture Digram
+
+<img width="584" height="585" alt="image" src="https://github.com/user-attachments/assets/16789a96-ec78-41f5-ae48-1842c73143a9" />
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# 7. SEQUENCE Diagram
+
+
+<img width="2120" height="978" alt="image" src="https://github.com/user-attachments/assets/d5229966-b3d9-4b16-bef1-7711145f903e" />
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 8.Class diagram
+
+
+<img width="1037" height="1107" alt="image" src="https://github.com/user-attachments/assets/3fa60636-920b-44a8-bb79-04bb0d431a44" />
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# 🧾 9. Git Workflow
 
 git add .
 git commit -m "feat: add LLMHandler with Gemini and Hugging Face support"
