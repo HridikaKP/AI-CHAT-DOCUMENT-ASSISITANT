@@ -39,9 +39,9 @@ It integrates LangChain, FAISS, and LLMs (groq or Hugging Face) to provide conte
 | -------------------------- | ------------------------------------------------------------------------ |
 | **Frontend (UI)**          | Streamlit                                                                |
 | **Backend Framework**      | LangChain                                                                |
-| **LLMs**                   | Gemini Flash (gemini-2.5-flash), Hugging Face (Mistral-7B-Instruct-v0.3) |
+| **LLMs**                   | GROQ_MODEL=llama-3.1-8b-instant, /Hugging Face (Mistral-7B-Instruct-v0.3) |
 | **Vector Database**        | FAISS                                                                    |
-| **Embedding Model**        | OpenAI / Hugging Face Embeddings                                         |
+| **Embedding Model**        | GROQ / Hugging Face Embeddings (EMBEDDING_MODEL=all-MiniLM-L6-v2)                                     |
 | **Language**               | Python 3.10+                                                             |
 | **Environment Management** | `.env` + `python-dotenv`                                                 |
 | **Version Control**        | Git & GitHub                                                             |
